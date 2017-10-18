@@ -10,6 +10,8 @@ brew cask install gas-mask
 brew cask install virtualbox
 brew cask install vagrant
 brew cask install vagrant-manager
+brew cask install skype
+brew cask install slack
 brew install node
 brew install zsh
 brew install git
