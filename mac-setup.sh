@@ -14,6 +14,7 @@ brew cask install skype
 brew cask install slack
 brew cask install thunderbird
 brew cask install simplenote
+brew cask install cyberduck
 brew install node
 brew install zsh
 brew install git
