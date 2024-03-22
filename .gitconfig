@@ -1,4 +1,8 @@
-# This is Git's per-user configuration file.
 [user]
-email = thomas@skinanalytics.co.uk
-name = Thomas Seropian
+	name = Thomas Seropian
+	email = thomas@seropian.io
+	signingkey = 28450E67AE86498B
+[init]
+	defaultBranch = master
+[commit]
+	gpgsign = true

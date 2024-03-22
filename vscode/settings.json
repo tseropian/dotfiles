@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "editor.formatOnSave": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.editor.highlightModifiedTabs": true
+}
